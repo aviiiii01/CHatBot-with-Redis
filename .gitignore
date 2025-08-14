@@ -1,0 +1,4 @@
+./mvenv
+./FastAPi
+./demo.py
+./ChatBot/.env
